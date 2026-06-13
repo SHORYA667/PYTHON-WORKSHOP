@@ -1,0 +1,15 @@
+[
+    {
+        "student_id": "12345",
+        "name": "shivam",
+        "email": "shivam@gamil.com",
+        "phone": "7905272126",
+        "course": "B.Tech",
+        "branch": "DS",
+        "attendance": 45,
+        "fee_status": "Pending",
+        "marks": {
+            "Maths": 98
+        }
+    }
+]
